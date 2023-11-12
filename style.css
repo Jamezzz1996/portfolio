@@ -388,7 +388,7 @@ form .send-message:hover{
  color: #A9A9A9;
 }
 
-/* @media (max-width: 1700px){
+@media (max-width: 1700px){
     header{
         padding: 20px 8%;
     }
@@ -403,9 +403,9 @@ form .send-message:hover{
         font-size: 28px
     }
 
-} */
+} 
 
-/* @media (max-width: 1380px){
+@media (max-width: 1380px){
     header{
         padding: 20px 5%;
     }
@@ -420,9 +420,9 @@ form .send-message:hover{
        height: 90vh;
     }
 
-}  */
+}  
 
-/* @media (max-width: 1290px){
+@media (max-width: 1290px){
     .box{
         padding: 40px 40px 46px;
     }
@@ -436,7 +436,7 @@ form .send-message:hover{
     .box h3{
         font-size: 21px;
     }
-} */
+} 
 
 @media (max-width: 1240px){
     .about{
