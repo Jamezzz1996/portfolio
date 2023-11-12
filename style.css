@@ -102,7 +102,7 @@ section{
 .hero{
     height: 100vh;
     width: 100%;
-    background: url(images/Me.png); 
+    background: url(Images/Me.png); 
     background-position: top right;
     background-size: contain;
     background-repeat: no-repeat;
